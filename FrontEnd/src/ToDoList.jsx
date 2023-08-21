@@ -119,7 +119,7 @@ export const ToDoList = () => {
         
           // Create a new task object with a unique ID
         const newTask = {
-            id: new Date().getTime(), // You can use a better method to generate IDs
+            id: tasks.length + 1, 
             description: description,
             complete: false,
         };

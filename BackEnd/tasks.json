@@ -1,32 +1,12 @@
 [
   {
     "id": 1,
-    "description": "Take Beaker for a walk",
+    "description": "First",
     "complete": true
   },
   {
     "id": 2,
-    "description": "Brush Beaker's coat",
+    "description": "Second",
     "complete": true
-  },
-  {
-    "id": 3,
-    "description": "Tell Beaker he is a good boy",
-    "complete": true
-  },
-  {
-    "id": 4,
-    "description": "this is a test",
-    "complete": true
-  },
-  {
-    "id": 1692583253273,
-    "description": "TEST",
-    "complete": false
-  },
-  {
-    "id": 1692583285676,
-    "description": "00",
-    "complete": false
   }
 ]
