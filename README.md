@@ -8,9 +8,11 @@ The project is composed of two components, a front end react application that pr
 1. open up a terminal
 1. clone the repository.
 1. cd into the backend directory
+1. Run npm install
 1. run node index.js
 
 ### Run the Frontend
 
 1. Open up another terminal
+1. Run yarn install
 1. Run yarn start 
